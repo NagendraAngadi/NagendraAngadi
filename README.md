@@ -11,7 +11,7 @@ As a 2+ years of Experience data analyst, I have a strong foundation in data man
 
 # Skills:
 • SQL• POWER BI
-• PYTHON • ADVANCED EXCEL • ETL • Data Visualization • Data Analysis • Data Manipulation • POWER BI
+• PYTHON • ADVANCED EXCEL • ETL • Data Visualization • Data Analysis • Data Manipulation • Exploratory Data Analysis • Etc.,
 
 
 # Social:

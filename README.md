@@ -4,7 +4,7 @@
 As a 2+ years of Experience data analyst, I have a strong foundation in data management and analysis. My expertise lies in identifying trends and patterns in large and complex data sets and using that knowledge to drive business success. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining, and creative dashboards.  I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making.
 
 # About Me:
-- 🔭 I’m currently working on Tata consultancy services
+- 🔭 I’m currently working at Tata consultancy services
 - 👯 I’m looking to collaborate on Data Analyst projects 
 - 💬 Ask me about Passionate Data Analyst 
 - 📫 How to reach me: nagendra.angadi9@gmail.com 

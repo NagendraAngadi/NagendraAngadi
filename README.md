@@ -7,7 +7,7 @@ As a data analyst, I have a strong foundation in data management and analysis. M
 - 🔭 I’m currently working on Tata consultancy services
 - 👯 I’m looking to collaborate on Data Analyst projects 
 - 💬 Ask me about Passionate Data Analyst 
-- 📫 How to reach me: nagendraa.angadi@gmail.com 
+- 📫 How to reach me: nagendra.angadi9@gmail.com 
 
 # Skills:
 • SQL• POWER BI

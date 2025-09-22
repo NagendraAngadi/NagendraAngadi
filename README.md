@@ -7,7 +7,7 @@ I have 3+ years of Experience as a data analyst, I have a strong foundation in d
 - 🔭 I’m currently working at Digitide Solutions Limited
 - 👯 I’m looking to collaborate on Data Analyst projects 
 - 💬 Ask me about Passionate Data Analyst 
-- 📫 How to reach me: nagendra.angadi007@gmail.com 
+- 📫 How to reach me: nagendra.angadii@gmail.com
 
 # Skills:
 • SQL• POWER BI

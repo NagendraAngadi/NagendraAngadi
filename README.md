@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Nagendra Angadi
 #### Welcome to my Github profile
 
-I have 3+ years of Experience as a data analyst, I have a strong foundation in data management and analysis. My expertise lies in identifying trends and patterns in large and complex data sets and using that knowledge to drive business success. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining, and creative dashboards.  I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making.
+I have 3.6 years of Experience as a data analyst, I have a strong foundation in data management and analysis. My expertise lies in identifying trends and patterns in large and complex data sets and using that knowledge to drive business success. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining, and creative dashboards.  I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making.
 
 # About Me:
 - 🔭 I’m currently working at Digitide Solutions Limited

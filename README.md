@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Nagendra Angadi
 #### Welcome to my Github profile
 
-Data Engineer with 3.7 years of hands-on experience in building and maintaining scalable data pipelines and analytics solutions. Strong expertise in Python, SQL, and PySpark, with practical experience in ETL/ELT processes, data transformation, and optimization. Hands-on exposure to Azure data services including Azure Data Factory, Azure Databricks, ADLS, and Synapse Analytics. Proven ability to convert raw data into analytics-ready datasets and collaborate with cross-functional teams to deliver business-driven insights.
+Data Engineer with 2.5 years of hands-on experience in building and maintaining scalable data pipelines and analytics solutions. Strong expertise in Python, SQL, and PySpark, with practical experience in ETL/ELT processes, data transformation, and optimization. Hands-on exposure to Azure data services including Azure Data Factory, Azure Databricks, ADLS, and Synapse Analytics. Proven ability to convert raw data into analytics-ready datasets and collaborate with cross-functional teams to deliver business-driven insights.
 
 # About Me:
 - 🔭 I’m currently working at Capgemini
-- 👯 I’m looking to collaborate on Data Engineer projects 
+- 👯 I’m looking to collaborate on Data Engineer
 - 💬 Ask me about Passionate Data Engineer 
 - 📫 How to reach me: nagendra.angadi07@gmail.com
 

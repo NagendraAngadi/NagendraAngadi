@@ -7,7 +7,7 @@ Data Engineer with 3.8 years of hands-on experience in building and maintaining 
 - 🔭 I’m currently working at Capgemini
 - 👯 I’m looking to collaborate on Data Engineer
 - 💬 Ask me about Passionate Data Engineer 
-- 📫 How to reach me: nagendra.angadi07@gmail.com
+- 📫 How to reach me: nagendra.angadi88@gmail.com
 
 # Skills:
   • Programming: Python, SQL  

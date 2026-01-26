@@ -4,12 +4,12 @@
 I’m a Data Engineer with 3.8+ years of hands-on experience in building and maintaining scalable data pipelines and analytics solutions. Strong expertise in Python, SQL, and PySpark, with practical experience in ETL/ELT processes, data transformation, and optimization. Hands-on exposure to Azure data services including Azure Data Factory, Azure Databricks, ADLS, and Synapse Analytics. Proven ability to convert raw data into analytics-ready datasets and collaborate with cross-functional teams to deliver business-driven insights.
   
   I specialize in:
-     • Design and implement end-to-end ETL/ELT pipelines
-     • Processing large-scale data (TB+) using PySpark & Databricks
-     • Building analytics-ready datasets using Star & Snowflake schemas
-     • Optimizing Spark jobs for performance and cost efficiency
-     • Ensure data quality, reliability, and governance
-     • Collaborate with analysts, product teams, and stakeholders to deliver business-driven insights
+     - Design and implement end-to-end ETL/ELT pipelines
+     - Processing large-scale data (TB+) using PySpark & Databricks
+     - Building analytics-ready datasets using Star & Snowflake schemas
+     - Optimizing Spark jobs for performance and cost efficiency
+     - Ensure data quality, reliability, and governance
+     - Collaborate with analysts, product teams, and stakeholders to deliver business-driven insights
 
 # About Me:
 - 🔭 Currently working at Capgemini

@@ -4,17 +4,18 @@
 I’m a Data Engineer with 3.8+ years of hands-on experience in building and maintaining scalable data pipelines and analytics solutions. Strong expertise in Python, SQL, and PySpark, with practical experience in ETL/ELT processes, data transformation, and optimization. Hands-on exposure to Azure data services including Azure Data Factory, Azure Databricks, ADLS, and Synapse Analytics. Proven ability to convert raw data into analytics-ready datasets and collaborate with cross-functional teams to deliver business-driven insights.
   
   I specialize in:
-     • Designing end-to-end ETL/ELT pipelines
+     • Design and implement end-to-end ETL/ELT pipelines
      • Processing large-scale data (TB+) using PySpark & Databricks
      • Building analytics-ready datasets using Star & Snowflake schemas
      • Optimizing Spark jobs for performance and cost efficiency
-  I enjoy solving real-world data problems and building systems that enable fast, reliable analytics for business teams.
+     • Ensure data quality, reliability, and governance
+     • Collaborate with analysts, product teams, and stakeholders to deliver business-driven insights
 
 # About Me:
-- 🔭 I’m currently working at Capgemini
-- 👯 I’m looking to collaborate on Data Engineer
-- 💬 Ask me about Passionate Data Engineer 
-- 📫 How to reach me: nagendra.angadi88@gmail.com
+- 🔭 Currently working at Capgemini
+- 👯 Open to collaborating on Data Engineering projects
+- 💬 Ask me aboutnAzure Data Engineering
+- 📫 Reach me at: nagendra.angadi88@gmail.com
 
 # Tech Stack:
   • Languages: Python | SQL 
@@ -22,7 +23,7 @@ I’m a Data Engineer with 3.8+ years of hands-on experience in building and mai
   • Cloud: Azure Data Factory | Azure Databricks | ADLS Gen2 | Azure Synapse Analytics  
   • Data Modeling: Star Schema | Snowflake Schema | Dimensional Modeling
   • Visualization: Power BI
-  • Other: Advanced Excel| Data Quality Frameworks | Performance Tuning  
+  • Other: Advanced Excel| Data Quality Frameworks | Performance Tuning | ETL Optimization
   
 
 

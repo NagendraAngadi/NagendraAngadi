@@ -15,7 +15,7 @@ I’m a Data Engineer with 3.8+ years of hands-on experience in building and mai
 - 🔭 Currently working at Capgemini
 - 👯 Open to collaborating on Data Engineering projects
 - 💬 Ask me aboutnAzure Data Engineering
-- 📫 Reach me at: nagendra.angadi88@gmail.com
+- 📫 Reach me at: nagendra.angadi007@gmail.com
 
 # Tech Stack:
   • Languages: Python | SQL 

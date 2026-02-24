@@ -16,7 +16,7 @@ Azure Data Engineer with 3.8+ years of experience building scalable data pipelin
 # About Me:
 - 🔭 Currently working at Capgemini
 - 👯 Open to collaborating on Data Engineering projects
-- 💬 Ask me aboutnAzure Data Engineering
+- 💬 Ask me about Azure Data Engineering
 - 📫 Reach me at: nagendra.angadi007@gmail.com
 
 # Tech Stack:

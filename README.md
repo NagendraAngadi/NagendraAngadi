@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nagendra Angadi
 #### Welcome to my Github profile
 
-Azure Data Engineer with 3.8 years of experience building scalable and reliable data solutions on Microsoft Azure using Azure Data Factory, Azure Databricks, PySpark, Azure Synapse Analytics, ADLS Gen2, and Delta Lake, with hands-on experience designing end-to-end ETL/ELT pipelines using Lakehouse (Medallion Architecture). Strong in SQL, Spark optimization, data modeling, and performance tuning. Passionate about transforming raw data into clean, analytics-ready datasets that enable data-driven decision-making.
+Azure Data Engineer with 3.8 years of experience designing and optimizing scalable data platforms on Microsoft Azure. Experienced in Azure Data Factory, Databricks (PySpark), Synapse Analytics, ADLS Gen2, and Delta Lake, building high-performance ETL/ELT pipelines using Lakehouse (Medallion) architecture. Strong in Spark optimization,  SQL, and dimensional data modeling, delivering reliable, analytics-ready data for business intelligence and strategic decision-making.
   
   I specialize in:
       - Design and implement end-to-end ETL/ELT pipelines

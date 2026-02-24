@@ -10,6 +10,10 @@ Azure Data Engineer with 3.8+ years of experience building scalable data pipelin
      - Optimizing Spark jobs for performance and cost efficiency
      - Ensure data quality, reliability, and governance
      - Collaborate with analysts, product teams, and stakeholders to deliver business-driven insights
+     - 🔭 Currently working at Capgemini
+- 👯 Open to collaborating on Data Engineering projects
+- 💬 Ask me aboutnAzure Data Engineering
+- 📫 Reach me at: nagendra.angadi007@gmail.com
 
 # About Me:
 - 🔭 Currently working at Capgemini

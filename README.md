@@ -4,16 +4,14 @@
 Azure Data Engineer with 3.8+ years of experience building scalable data pipelines on Microsoft Azure using ADF, Databricks, and PySpark. Specialized in Delta Lake (Medallion Architecture), ADLS Gen2, and performance-optimized data solutions. Passionate about transforming raw data into reliable, analytics-ready platforms that drive business impact.
   
   I specialize in:
-     - Design and implement end-to-end ETL/ELT pipelines
-     - Processing large-scale data (TB+) using PySpark & Databricks
-     - Building analytics-ready datasets using Star & Snowflake schemas
-     - Optimizing Spark jobs for performance and cost efficiency
-     - Ensure data quality, reliability, and governance
-     - Collaborate with analysts, product teams, and stakeholders to deliver business-driven insights
-     - 🔭 Currently working at Capgemini
-- 👯 Open to collaborating on Data Engineering projects
-- 💬 Ask me aboutnAzure Data Engineering
-- 📫 Reach me at: nagendra.angadi007@gmail.com
+      - Design and implement end-to-end ETL/ELT pipelines
+      - Processing large-scale data (TB+) using PySpark & Databricks
+      - Building analytics-ready datasets using Star & Snowflake schemas
+      - Optimizing Spark jobs for performance and cost efficiency
+      - Optimizing Spark jobs for performance and cost efficiency
+      - Ensure data quality, reliability, and governance
+      - Collaborate with analysts, product teams, and stakeholders to deliver business-driven insights
+     
 
 # About Me:
 - 🔭 Currently working at Capgemini

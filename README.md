@@ -17,15 +17,18 @@ Azure Data Engineer with 3.8 years of experience designing and optimizing scalab
 - 🔭 Currently working at Capgemini
 - 👯 Open to collaborating on Data Engineering projects
 - 💬 Ask me about Azure Data Engineering
-- 📫 Reach me at: nagendra.angadi007@gmail.com
+- 📫 Reach me at: nagendra.angadi01@gmail.com
 
 # Tech Stack:
   • Languages: Python | SQL 
   • Big Data & Processing: PySpark | Spark SQL | Delta Lake
   • Cloud: Azure Data Factory | Azure Databricks | ADLS Gen2 | Azure Synapse Analytics  
-  • Data Modeling: Star Schema | Snowflake Schema | Dimensional Modeling
+  • Data Modeling: Star Schema | Snowflake Schema | Dimensional Modeling | SCD Type 1 & 2
   • Visualization: Power BI
-  • Other: Advanced Excel| Data Quality Frameworks | Performance Tuning | ETL Optimization
+  • Data Engineering: ETL/ELT Pipelines | Medallion Architecture | Incremental Load (CDC/Watermark) | SCD Type 1 & 2 | Star 
+    Schema | Snowflake Schema | Data Quality Frameworks 
+  • Performance Optimization: Spark Optimization | Broadcast Join | Caching | Window Functions | Partitioning Strategy |          Query Tuning 
+  • BI & Reporting: Power BI, Microsoft Excel
   
 
 
